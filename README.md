@@ -8,18 +8,13 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- I m 4.grade Computer Engineer
-- I m interested AL and Cyber Security 
-- I m taking AL traning and cyber security .I m thinking to combine them in future
+-🎓 I m 4.grade Computer Engineer
+- 🧐 I'm interested in AL and Cyber Security 
+- 🌱 I’m currently learning Machine Learning - AL and Cyber Security
 - I studied before on backend developer with python django and shared project in repo
-- 🎓 I graduated in computer engineering.
-🔭 I’m currently working on Data Science.
-🌱 I’m currently learning Machine Learning and Deep Learning.
-🧐 I'm interested in NLP and LLM.
 - I share my blog on Medium.Visit from here <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@zehranurmangal">MEDIUM </a>
 	
 <br>
