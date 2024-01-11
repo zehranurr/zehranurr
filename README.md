@@ -14,18 +14,40 @@
 
 - I m 4.grade Computer Engineer
 - I m interested AL and Cyber Security 
-- I m taking AL traning and cyber security .I m thinking to combine in future
-- 
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- I m taking AL traning and cyber security .I m thinking to combine them in future
+- I studied before on backend developer with python django and shared project in repo
+- 🎓 I graduated in computer engineering.
+🔭 I’m currently working on Data Science.
+🌱 I’m currently learning Machine Learning and Deep Learning.
+🧐 I'm interested in NLP and LLM.
+- I share my blog on Medium.Visit from here <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@zehranurmangal">MEDIUM </a>
+	
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<h3 align="center" >Connect with me 🤝 </h3>
+
 <p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/zehra-nur-mangal-7689b6230/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zehranurr">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="https://">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://medium.com/@zehranurmangal">
+					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+      </div>
+
 </p>
+
+
+	
+
+</div>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
@@ -111,29 +133,7 @@
 
 -----
 
-<h3 align="center" >Connect with me 🤝 </h3>
 
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-      </div>
-
-</p>
-
-
-	
-
-</div>
 
 	
 
