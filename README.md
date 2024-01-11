@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Zehra Nur Mangal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"  />
   
 </p>
 
