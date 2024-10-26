@@ -11,7 +11,7 @@
 
 <br><br>
 
-- 🎓 I m 4.grade Computer Engineer
+- 🎓 I m  Computer Engineer
 - 🧐 I'm interested in AL and Cyber Security 
 - 🌱 I’m currently learning Machine Learning - AL and Cyber Security
 - I studied before on backend developer with python django and shared project in repo
