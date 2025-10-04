@@ -13,7 +13,7 @@
 
 - 🎓 I m  Computer Engineer
 - 🧐 I'm interested in AL and Cyber Security 
-- 🌱 I’m currently learning Machine Learning - AL and Cyber Security
+- 🌱 I’m currently learning Machine Learning - AL,Data Engineer and .Net Developer area.
 - I studied before on backend developer with python django and shared project in repo
 - I share my blog on Medium.Visit from here <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@zehranurmangal">MEDIUM </a>
 - I m currently learning cyber security on <a style="margin-left: 10px;" target="_blank" href="https://tryhackme.com/p/ZehraNurMangal">TRYHACKME</a>
